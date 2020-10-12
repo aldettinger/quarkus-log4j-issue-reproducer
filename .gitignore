@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Eclipse
 .project
 .classpath
@@ -31,6 +32,8 @@ nb-configuration.xml
 
 # Maven
 =======
+=======
+>>>>>>> 3f2af908fabdd1e84da401212b48fed2a10cb2df
 target/
 pom.xml.tag
 pom.xml.releaseBackup
